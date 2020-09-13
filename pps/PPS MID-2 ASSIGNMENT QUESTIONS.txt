@@ -1,0 +1,22 @@
+1. Define preprocessor directives? What are the types of preprocessor directives in c? Explain with examples?
+
+2. Define file? What are the operations performed on files? Compare Text files vs Binary files?
+
+3. Explain about different file handling functions with syntax? What are the different modes to open a file?
+
+4. Write a program to write data into file using fprintf()?
+
+5. Define function ? Explain about advantages of function? Write syntax for declare a function?
+
+6. Write a program to swap two numbers using call by value? 
+	Explain about 
+	i) malloc()		ii) calloc()		iii) realloc()		iv) free()  with syntax?
+
+7. What is recursive function? Write a program to find factorial of given number using recursive function?
+
+8. Whar ate the qualities of an algorithm? Write an algorithm to find given number prime or not?
+
+9. What is search? Explain about Liner search and binary search?
+
+10. Expalin the following with examples?
+	i) Bubble sort	ii) Selection sort
